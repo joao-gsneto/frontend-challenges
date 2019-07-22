@@ -21,6 +21,7 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | :us: | [Ambulnz](http://www.ambulnz.com/) | Git, NPM & Bower | [Code →](https://github.com/AmbulnzLLC/frontend-challenge)
 | :brazil: | [Agrotis](https://www.agrotis.com/) | React, Redux | [Code →](https://github.com/agrotis-io/desafio-front)
 | :brazil: | [Amaro](https://amaro.com/) | React, Redux, Sass & Webpack | [Code →](https://github.com/amarofashion/front-end-challenge/)
+| :brazil: | [Barato Coletivo](https://www.barato.com.br/) | HTML, CSS & JS, React, Vuejs, Angular | [Code →](https://github.com/baratocoletivo/desafio-frontend)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Framework JS, Preprocessor CSS & Task Runners | [Code →](https://github.com/b2w-marketplace/code-challenge)
 | :brazil: | [Buscapé](https://www.buscape.com.br/) | HTML, CSS & JS | [Code →](https://github.com/buscape-company/exercicios/tree/master/frontend)
 | :netherlands: | [Chama](https://www.chama-app.com.br/) | React, Redux | [Code →](https://github.com/chamatheapp/chama-frontend-assignment/)
